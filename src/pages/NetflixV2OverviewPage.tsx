@@ -39,7 +39,7 @@ const manageMenuItems = [
 
 const timelineRows = [
   { label: 'Days open', value: '12', extra: 'Mar 20, 2026' },
-  { label: 'Target fill', value: '30 days', extra: 'Due Apr 19, 2026' },
+  { label: 'Target fill', value: '25 days', extra: 'Due Apr 14, 2026' },
   { label: 'Projected fill', value: '40 days', extra: 'At current velocity', alert: true },
 ];
 
