@@ -1,0 +1,19 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  font-family: 'Gilroy', system-ui, -apple-system, sans-serif;
+  background: #f6f7f8;
+  color: #1a212e;
+  -webkit-font-smoothing: antialiased;
+}
